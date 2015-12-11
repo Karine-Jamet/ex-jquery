@@ -1,0 +1,40 @@
+body{
+  width: 100%;
+  height:100%;
+}
+
+html{
+  width: 100%;
+  height:100%;
+}
+
+.panel{
+  width: 100%;
+  height:90%;
+  border : 2px dotted salmon;
+
+}
+
+
+div{
+  width: 100%;
+  height:30px ;
+
+}
+
+.bleu{
+  background-color: blue;
+}
+
+.vert{
+  background-color: green;
+}
+
+.noir {
+  background-color: black;
+}
+
+.red{
+  background-color: red;
+
+}
